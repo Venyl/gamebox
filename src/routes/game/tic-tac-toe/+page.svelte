@@ -82,10 +82,6 @@
 </div>
 <button class="btn-reset" on:click={restart}>Restart</button>
 
-<!-- <pre>
-    {JSON.stringify(tileStates, null, 2)}
-</pre> -->
-
 <style>
 	h2 {
 		font-family: Nunito;

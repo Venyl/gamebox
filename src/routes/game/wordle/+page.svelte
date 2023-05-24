@@ -1,5 +1,4 @@
 <script lang="ts">
-	import '@fontsource/podkova';
 	import type { Letter, WordleTile } from '$lib/types';
 	import getRandomWord from '$lib/words';
 
