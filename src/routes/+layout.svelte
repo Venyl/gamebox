@@ -2,6 +2,8 @@
 	import '$lib/global.css';
 	import '@fontsource/nunito/900.css';
 	import '@fontsource/alef';
+
+	export const prerender = true;
 </script>
 
 <div class="body">
