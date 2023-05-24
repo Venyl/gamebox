@@ -3,7 +3,7 @@
 	import '@fontsource/nunito/900.css';
 	import '@fontsource/alef';
 
-	export const prerender = true;
+	export const ssr = false;
 </script>
 
 <div class="body">
